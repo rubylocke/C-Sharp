@@ -1,0 +1,6 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\RubyFirstConsoleProgram\RubyFirstConsoleProgram\bin\Debug\RubyFirstConsoleProgram.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\RubyFirstConsoleProgram\RubyFirstConsoleProgram\bin\Debug\RubyFirstConsoleProgram.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\RubyFirstConsoleProgram\RubyFirstConsoleProgram\bin\Debug\RubyFirstConsoleProgram.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\RubyFirstConsoleProgram\RubyFirstConsoleProgram\obj\Debug\RubyFirstConsoleProgram.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\RubyFirstConsoleProgram\RubyFirstConsoleProgram\obj\Debug\RubyFirstConsoleProgram.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\RubyFirstConsoleProgram\RubyFirstConsoleProgram\obj\Debug\RubyFirstConsoleProgram.pdb

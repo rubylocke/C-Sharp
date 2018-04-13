@@ -1,0 +1,12 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Project 11-5 Search Employees table by LastName\11 Problem 11-4 Use SQL for Retrieval\bin\Debug\Locke4.mdf
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Project 11-5 Search Employees table by LastName\11 Problem 11-4 Use SQL for Retrieval\bin\Debug\Locke4_log.ldf
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Project 11-5 Search Employees table by LastName\11 Problem 11-4 Use SQL for Retrieval\bin\Debug\11 Problem 11-4 Use SQL for Retrieval.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Project 11-5 Search Employees table by LastName\11 Problem 11-4 Use SQL for Retrieval\bin\Debug\11 Problem 11-4 Use SQL for Retrieval.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Project 11-5 Search Employees table by LastName\11 Problem 11-4 Use SQL for Retrieval\bin\Debug\11 Problem 11-4 Use SQL for Retrieval.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Project 11-5 Search Employees table by LastName\11 Problem 11-4 Use SQL for Retrieval\obj\Debug\11 Problem 11-5 Search Employee table by LastName.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Project 11-5 Search Employees table by LastName\11 Problem 11-4 Use SQL for Retrieval\obj\Debug\_11_Problem_11_4_Use_SQL_for_Retrieval.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Project 11-5 Search Employees table by LastName\11 Problem 11-4 Use SQL for Retrieval\obj\Debug\_11_Problem_11_4_Use_SQL_for_Retrieval.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Project 11-5 Search Employees table by LastName\11 Problem 11-4 Use SQL for Retrieval\obj\Debug\11 Problem 11-5 Search Employee table by LastName.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Project 11-5 Search Employees table by LastName\11 Problem 11-4 Use SQL for Retrieval\obj\Debug\11 Problem 11-5 Search Employee table by LastName.csproj.CoreCompileInputs.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Project 11-5 Search Employees table by LastName\11 Problem 11-4 Use SQL for Retrieval\obj\Debug\11 Problem 11-4 Use SQL for Retrieval.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Project 11-5 Search Employees table by LastName\11 Problem 11-4 Use SQL for Retrieval\obj\Debug\11 Problem 11-4 Use SQL for Retrieval.pdb

@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\4-6 Book Club Points\4-6 Book Club Points\bin\Debug\4-6 Book Club Points.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\4-6 Book Club Points\4-6 Book Club Points\bin\Debug\4-6 Book Club Points.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\4-6 Book Club Points\4-6 Book Club Points\bin\Debug\4-6 Book Club Points.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\4-6 Book Club Points\4-6 Book Club Points\obj\Debug\4-6 Book Club Points.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\4-6 Book Club Points\4-6 Book Club Points\obj\Debug\_4_6_Book_Club_Points.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\4-6 Book Club Points\4-6 Book Club Points\obj\Debug\_4_6_Book_Club_Points.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\4-6 Book Club Points\4-6 Book Club Points\obj\Debug\4-6 Book Club Points.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\4-6 Book Club Points\4-6 Book Club Points\obj\Debug\4-6 Book Club Points.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\4-6 Book Club Points\4-6 Book Club Points\obj\Debug\4-6 Book Club Points.pdb

@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 1 Methods\6 Project 1 Methods\bin\Debug\6 Project 1 Methods.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 1 Methods\6 Project 1 Methods\bin\Debug\6 Project 1 Methods.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 1 Methods\6 Project 1 Methods\bin\Debug\6 Project 1 Methods.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 1 Methods\6 Project 1 Methods\obj\Debug\6 Project 1 Methods.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 1 Methods\6 Project 1 Methods\obj\Debug\_6_Project_1_Methods.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 1 Methods\6 Project 1 Methods\obj\Debug\_6_Project_1_Methods.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 1 Methods\6 Project 1 Methods\obj\Debug\6 Project 1 Methods.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 1 Methods\6 Project 1 Methods\obj\Debug\6 Project 1 Methods.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 1 Methods\6 Project 1 Methods\obj\Debug\6 Project 1 Methods.pdb

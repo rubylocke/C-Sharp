@@ -1,0 +1,12 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Program 10-2 Inheritance + Encapsulation\10 Program 10-2 Inheritance + Encapsulation\bin\Debug\10 Program 10-2 Inheritance + Encapsulation.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Program 10-2 Inheritance + Encapsulation\10 Program 10-2 Inheritance + Encapsulation\bin\Debug\10 Program 10-2 Inheritance + Encapsulation.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Program 10-2 Inheritance + Encapsulation\10 Program 10-2 Inheritance + Encapsulation\bin\Debug\10 Program 10-2 Inheritance + Encapsulation.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Program 10-2 Inheritance + Encapsulation\10 Program 10-2 Inheritance + Encapsulation\obj\Debug\10 Program 10-2 Inheritance + Encapsulation.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Program 10-2 Inheritance + Encapsulation\10 Program 10-2 Inheritance + Encapsulation\obj\Debug\_10_Program_10_2_Inheritance___Encapsulation.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Program 10-2 Inheritance + Encapsulation\10 Program 10-2 Inheritance + Encapsulation\obj\Debug\_10_Program_10_2_Inheritance___Encapsulation.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Program 10-2 Inheritance + Encapsulation\10 Program 10-2 Inheritance + Encapsulation\obj\Debug\10 Program 10-2 Inheritance + Encapsulation.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Program 10-2 Inheritance + Encapsulation\10 Program 10-2 Inheritance + Encapsulation\obj\Debug\10 Program 10-2 Inheritance + Encapsulation.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Program 10-2 Inheritance + Encapsulation\10 Program 10-2 Inheritance + Encapsulation\obj\Debug\10 Program 10-2 Inheritance + Encapsulation.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-2 Inheritance + Encapsulation\10 Program 10-2 Inheritance + Encapsulation\bin\Debug\10 Program 10-2 Inheritance + Encapsulation.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-2 Inheritance + Encapsulation\10 Program 10-2 Inheritance + Encapsulation\obj\Debug\10 Program 10-2 Inheritance + Encapsulation.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-2 Inheritance + Encapsulation\10 Program 10-2 Inheritance + Encapsulation\obj\Debug\10 Program 10-2 Inheritance + Encapsulation.pdb

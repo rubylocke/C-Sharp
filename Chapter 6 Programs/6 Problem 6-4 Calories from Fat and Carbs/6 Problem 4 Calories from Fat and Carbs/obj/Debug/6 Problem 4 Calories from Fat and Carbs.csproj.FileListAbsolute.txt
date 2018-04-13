@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Problem 4 Calories from Fat and Carbs\6 Problem 4 Calories from Fat and Carbs\bin\Debug\6 Problem 4 Calories from Fat and Carbs.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Problem 4 Calories from Fat and Carbs\6 Problem 4 Calories from Fat and Carbs\bin\Debug\6 Problem 4 Calories from Fat and Carbs.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Problem 4 Calories from Fat and Carbs\6 Problem 4 Calories from Fat and Carbs\bin\Debug\6 Problem 4 Calories from Fat and Carbs.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Problem 4 Calories from Fat and Carbs\6 Problem 4 Calories from Fat and Carbs\obj\Debug\6 Problem 4 Calories from Fat and Carbs.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Problem 4 Calories from Fat and Carbs\6 Problem 4 Calories from Fat and Carbs\obj\Debug\_6_Problem_4_Calories_from_Fat_and_Carbs.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Problem 4 Calories from Fat and Carbs\6 Problem 4 Calories from Fat and Carbs\obj\Debug\_6_Problem_4_Calories_from_Fat_and_Carbs.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Problem 4 Calories from Fat and Carbs\6 Problem 4 Calories from Fat and Carbs\obj\Debug\6 Problem 4 Calories from Fat and Carbs.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Problem 4 Calories from Fat and Carbs\6 Problem 4 Calories from Fat and Carbs\obj\Debug\6 Problem 4 Calories from Fat and Carbs.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Problem 4 Calories from Fat and Carbs\6 Problem 4 Calories from Fat and Carbs\obj\Debug\6 Problem 4 Calories from Fat and Carbs.pdb

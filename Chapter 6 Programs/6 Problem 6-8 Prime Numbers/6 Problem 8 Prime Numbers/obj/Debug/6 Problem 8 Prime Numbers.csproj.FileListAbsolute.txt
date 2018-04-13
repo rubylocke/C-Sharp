@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Problem 8 Prime Numbers\6 Problem 8 Prime Numbers\bin\Debug\6 Problem 8 Prime Numbers.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Problem 8 Prime Numbers\6 Problem 8 Prime Numbers\bin\Debug\6 Problem 8 Prime Numbers.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Problem 8 Prime Numbers\6 Problem 8 Prime Numbers\bin\Debug\6 Problem 8 Prime Numbers.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Problem 8 Prime Numbers\6 Problem 8 Prime Numbers\obj\Debug\6 Problem 8 Prime Numbers.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Problem 8 Prime Numbers\6 Problem 8 Prime Numbers\obj\Debug\_6_Problem_8_Prime_Numbers.formPrimeNumbers.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Problem 8 Prime Numbers\6 Problem 8 Prime Numbers\obj\Debug\_6_Problem_8_Prime_Numbers.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Problem 8 Prime Numbers\6 Problem 8 Prime Numbers\obj\Debug\6 Problem 8 Prime Numbers.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Problem 8 Prime Numbers\6 Problem 8 Prime Numbers\obj\Debug\6 Problem 8 Prime Numbers.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Problem 8 Prime Numbers\6 Problem 8 Prime Numbers\obj\Debug\6 Problem 8 Prime Numbers.pdb

@@ -1,0 +1,10 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Problem 9-3 Properties\9 Problem 9-3 Properties\bin\Debug\9 Problem 9-3 Properties.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-3 Properties\9 Problem 9-3 Properties\bin\Debug\9 Problem 9-3 Properties.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-3 Properties\9 Problem 9-3 Properties\bin\Debug\9 Problem 9-3 Properties.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-3 Properties\9 Problem 9-3 Properties\bin\Debug\9 Problem 9-3 Properties.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-3 Properties\9 Problem 9-3 Properties\obj\Debug\9 Problem 9-3 Properties.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-3 Properties\9 Problem 9-3 Properties\obj\Debug\_9_Problem_9_3_Properties.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-3 Properties\9 Problem 9-3 Properties\obj\Debug\_9_Problem_9_3_Properties.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-3 Properties\9 Problem 9-3 Properties\obj\Debug\9 Problem 9-3 Properties.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-3 Properties\9 Problem 9-3 Properties\obj\Debug\9 Problem 9-3 Properties.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-3 Properties\9 Problem 9-3 Properties\obj\Debug\9 Problem 9-3 Properties.pdb

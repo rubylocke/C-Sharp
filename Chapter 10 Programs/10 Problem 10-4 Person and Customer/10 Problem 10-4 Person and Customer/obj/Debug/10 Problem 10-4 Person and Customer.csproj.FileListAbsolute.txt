@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Problem 10-4 Person and Customer\10 Problem 10-4 Person and Customer\bin\Debug\10 Problem 10-4 Person and Customer.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Problem 10-4 Person and Customer\10 Problem 10-4 Person and Customer\bin\Debug\10 Problem 10-4 Person and Customer.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Problem 10-4 Person and Customer\10 Problem 10-4 Person and Customer\bin\Debug\10 Problem 10-4 Person and Customer.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Problem 10-4 Person and Customer\10 Problem 10-4 Person and Customer\obj\Debug\10 Problem 10-4 Person and Customer.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Problem 10-4 Person and Customer\10 Problem 10-4 Person and Customer\obj\Debug\_10_Problem_10_4_Person_and_Customer.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Problem 10-4 Person and Customer\10 Problem 10-4 Person and Customer\obj\Debug\_10_Problem_10_4_Person_and_Customer.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Problem 10-4 Person and Customer\10 Problem 10-4 Person and Customer\obj\Debug\10 Problem 10-4 Person and Customer.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Problem 10-4 Person and Customer\10 Problem 10-4 Person and Customer\obj\Debug\10 Problem 10-4 Person and Customer.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Problem 10-4 Person and Customer\10 Problem 10-4 Person and Customer\obj\Debug\10 Problem 10-4 Person and Customer.pdb

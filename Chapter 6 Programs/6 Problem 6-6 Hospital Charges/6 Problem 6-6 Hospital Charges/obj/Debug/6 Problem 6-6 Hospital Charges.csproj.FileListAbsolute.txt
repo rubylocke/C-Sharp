@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Problem 6-6 Hospital Charges\6 Problem 6-6 Hospital Charges\bin\Debug\6 Problem 6-6 Hospital Charges.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Problem 6-6 Hospital Charges\6 Problem 6-6 Hospital Charges\bin\Debug\6 Problem 6-6 Hospital Charges.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Problem 6-6 Hospital Charges\6 Problem 6-6 Hospital Charges\bin\Debug\6 Problem 6-6 Hospital Charges.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Problem 6-6 Hospital Charges\6 Problem 6-6 Hospital Charges\obj\Debug\6 Problem 6-6 Hospital Charges.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Problem 6-6 Hospital Charges\6 Problem 6-6 Hospital Charges\obj\Debug\_6_Problem_6_6_Hospital_Charges.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Problem 6-6 Hospital Charges\6 Problem 6-6 Hospital Charges\obj\Debug\_6_Problem_6_6_Hospital_Charges.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Problem 6-6 Hospital Charges\6 Problem 6-6 Hospital Charges\obj\Debug\6 Problem 6-6 Hospital Charges.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Problem 6-6 Hospital Charges\6 Problem 6-6 Hospital Charges\obj\Debug\6 Problem 6-6 Hospital Charges.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Problem 6-6 Hospital Charges\6 Problem 6-6 Hospital Charges\obj\Debug\6 Problem 6-6 Hospital Charges.pdb

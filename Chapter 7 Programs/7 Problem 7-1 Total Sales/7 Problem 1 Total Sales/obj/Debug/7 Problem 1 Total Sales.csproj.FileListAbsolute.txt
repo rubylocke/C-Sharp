@@ -1,0 +1,12 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\7 Problem 1 Total Sales\7 Problem 1 Total Sales\bin\Debug\7 Problem 1 Total Sales.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\7 Problem 1 Total Sales\7 Problem 1 Total Sales\bin\Debug\7 Problem 1 Total Sales.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\7 Problem 1 Total Sales\7 Problem 1 Total Sales\bin\Debug\7 Problem 1 Total Sales.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\7 Problem 1 Total Sales\7 Problem 1 Total Sales\obj\Debug\7 Problem 1 Total Sales.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\7 Problem 1 Total Sales\7 Problem 1 Total Sales\obj\Debug\_7_Problem_1_Total_Sales.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\7 Problem 1 Total Sales\7 Problem 1 Total Sales\obj\Debug\_7_Problem_1_Total_Sales.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\7 Problem 1 Total Sales\7 Problem 1 Total Sales\obj\Debug\7 Problem 1 Total Sales.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\7 Problem 1 Total Sales\7 Problem 1 Total Sales\obj\Debug\7 Problem 1 Total Sales.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\7 Problem 1 Total Sales\7 Problem 1 Total Sales\obj\Debug\7 Problem 1 Total Sales.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\7 Problem 7-1 Total Sales\7 Problem 1 Total Sales\bin\Debug\7 Problem 1 Total Sales.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\7 Problem 7-1 Total Sales\7 Problem 1 Total Sales\obj\Debug\7 Problem 1 Total Sales.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\7 Problem 7-1 Total Sales\7 Problem 1 Total Sales\obj\Debug\7 Problem 1 Total Sales.pdb

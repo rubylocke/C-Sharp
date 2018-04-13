@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-3 Prefix and Postfix\Project 5-3 Prefix and Postfix\bin\Debug\Project 5-3 Prefix and Postfix.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-3 Prefix and Postfix\Project 5-3 Prefix and Postfix\bin\Debug\Project 5-3 Prefix and Postfix.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-3 Prefix and Postfix\Project 5-3 Prefix and Postfix\bin\Debug\Project 5-3 Prefix and Postfix.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-3 Prefix and Postfix\Project 5-3 Prefix and Postfix\obj\Debug\Project 5-3 Prefix and Postfix.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-3 Prefix and Postfix\Project 5-3 Prefix and Postfix\obj\Debug\Project_5_3_Prefix_and_Postfix.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-3 Prefix and Postfix\Project 5-3 Prefix and Postfix\obj\Debug\Project_5_3_Prefix_and_Postfix.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-3 Prefix and Postfix\Project 5-3 Prefix and Postfix\obj\Debug\Project 5-3 Prefix and Postfix.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-3 Prefix and Postfix\Project 5-3 Prefix and Postfix\obj\Debug\Project 5-3 Prefix and Postfix.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-3 Prefix and Postfix\Project 5-3 Prefix and Postfix\obj\Debug\Project 5-3 Prefix and Postfix.pdb

@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-2 Classes and Constructors\9 Project 9-2 Classes and Constructors\bin\Debug\9 Project 9-2 Classes and Constructors.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-2 Classes and Constructors\9 Project 9-2 Classes and Constructors\bin\Debug\9 Project 9-2 Classes and Constructors.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-2 Classes and Constructors\9 Project 9-2 Classes and Constructors\bin\Debug\9 Project 9-2 Classes and Constructors.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-2 Classes and Constructors\9 Project 9-2 Classes and Constructors\obj\Debug\9 Project 9-2 Classes and Constructors.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-2 Classes and Constructors\9 Project 9-2 Classes and Constructors\obj\Debug\_9_Project_9_2_Classes_and_Constructors.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-2 Classes and Constructors\9 Project 9-2 Classes and Constructors\obj\Debug\_9_Project_9_2_Classes_and_Constructors.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-2 Classes and Constructors\9 Project 9-2 Classes and Constructors\obj\Debug\9 Project 9-2 Classes and Constructors.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-2 Classes and Constructors\9 Project 9-2 Classes and Constructors\obj\Debug\9 Project 9-2 Classes and Constructors.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-2 Classes and Constructors\9 Project 9-2 Classes and Constructors\obj\Debug\9 Project 9-2 Classes and Constructors.pdb

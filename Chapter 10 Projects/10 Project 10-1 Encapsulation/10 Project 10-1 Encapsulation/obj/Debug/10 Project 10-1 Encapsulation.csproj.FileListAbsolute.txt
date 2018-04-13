@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-1 Encapsulation\10 Project 10-1 Encapsulation\bin\Debug\10 Project 10-1 Encapsulation.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-1 Encapsulation\10 Project 10-1 Encapsulation\bin\Debug\10 Project 10-1 Encapsulation.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-1 Encapsulation\10 Project 10-1 Encapsulation\bin\Debug\10 Project 10-1 Encapsulation.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-1 Encapsulation\10 Project 10-1 Encapsulation\obj\Debug\10 Project 10-1 Encapsulation.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-1 Encapsulation\10 Project 10-1 Encapsulation\obj\Debug\_10_Project_10_1_Encapsulation.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-1 Encapsulation\10 Project 10-1 Encapsulation\obj\Debug\_10_Project_10_1_Encapsulation.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-1 Encapsulation\10 Project 10-1 Encapsulation\obj\Debug\10 Project 10-1 Encapsulation.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-1 Encapsulation\10 Project 10-1 Encapsulation\obj\Debug\10 Project 10-1 Encapsulation.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-1 Encapsulation\10 Project 10-1 Encapsulation\obj\Debug\10 Project 10-1 Encapsulation.pdb

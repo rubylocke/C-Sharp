@@ -1,0 +1,11 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Project 11-1 Building Database\11 Project 11-1 Building Database\bin\Debug\11 Project 11-1 Building Database.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Project 11-1 Building Database\11 Project 11-1 Building Database\bin\Debug\Locke.mdf
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Project 11-1 Building Database\11 Project 11-1 Building Database\bin\Debug\Locke_log.ldf
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Project 11-1 Building Database\11 Project 11-1 Building Database\bin\Debug\11 Project 11-1 Building Database.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Project 11-1 Building Database\11 Project 11-1 Building Database\bin\Debug\11 Project 11-1 Building Database.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Project 11-1 Building Database\11 Project 11-1 Building Database\obj\Debug\11 Project 11-1 Building Database.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Project 11-1 Building Database\11 Project 11-1 Building Database\obj\Debug\_11_Project_11_1_Building_Database.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Project 11-1 Building Database\11 Project 11-1 Building Database\obj\Debug\_11_Project_11_1_Building_Database.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Project 11-1 Building Database\11 Project 11-1 Building Database\obj\Debug\11 Project 11-1 Building Database.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Project 11-1 Building Database\11 Project 11-1 Building Database\obj\Debug\11 Project 11-1 Building Database.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Project 11-1 Building Database\11 Project 11-1 Building Database\obj\Debug\11 Project 11-1 Building Database.pdb

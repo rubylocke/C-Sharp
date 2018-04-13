@@ -1,0 +1,18 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Program 3 Poly and Inherit\10 Program 3 Poly and Inherit\bin\Debug\10 Program 3 Poly and Inherit.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Program 3 Poly and Inherit\10 Program 3 Poly and Inherit\bin\Debug\10 Program 3 Poly and Inherit.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Program 3 Poly and Inherit\10 Program 3 Poly and Inherit\bin\Debug\10 Program 3 Poly and Inherit.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Program 3 Poly and Inherit\10 Program 3 Poly and Inherit\obj\Debug\10 Program 3 Poly and Inherit.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Program 3 Poly and Inherit\10 Program 3 Poly and Inherit\obj\Debug\_10_Program_3_Poly_and_Inherit.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Program 3 Poly and Inherit\10 Program 3 Poly and Inherit\obj\Debug\_10_Program_3_Poly_and_Inherit.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Program 3 Poly and Inherit\10 Program 3 Poly and Inherit\obj\Debug\10 Program 3 Poly and Inherit.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Program 3 Poly and Inherit\10 Program 3 Poly and Inherit\obj\Debug\10 Program 3 Poly and Inherit.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Program 3 Poly and Inherit\10 Program 3 Poly and Inherit\obj\Debug\10 Program 3 Poly and Inherit.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-3 Poly and Inherit\10 Program 3 Poly and Inherit\bin\Debug\10 Program 3 Poly and Inherit.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-3 Poly and Inherit\10 Program 3 Poly and Inherit\obj\Debug\10 Program 3 Poly and Inherit.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-3 Poly and Inherit\10 Program 3 Poly and Inherit\obj\Debug\10 Program 3 Poly and Inherit.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-3 Poly and Inherit\10 Program 3 Poly and Inherit\bin\Debug\10 Program 3 Poly and Inherit.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-3 Poly and Inherit\10 Program 3 Poly and Inherit\bin\Debug\10 Program 3 Poly and Inherit.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-3 Poly and Inherit\10 Program 3 Poly and Inherit\obj\Debug\10 Program 3 Poly and Inherit.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-3 Poly and Inherit\10 Program 3 Poly and Inherit\obj\Debug\_10_Program_3_Poly_and_Inherit.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-3 Poly and Inherit\10 Program 3 Poly and Inherit\obj\Debug\_10_Program_3_Poly_and_Inherit.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-3 Poly and Inherit\10 Program 3 Poly and Inherit\obj\Debug\10 Program 3 Poly and Inherit.csproj.GenerateResource.Cache

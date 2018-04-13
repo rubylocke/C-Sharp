@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\4-6 Color Mixer\4-6 Color Mixer\bin\Debug\4-6 Color Mixer.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\4-6 Color Mixer\4-6 Color Mixer\bin\Debug\4-6 Color Mixer.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\4-6 Color Mixer\4-6 Color Mixer\bin\Debug\4-6 Color Mixer.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\4-6 Color Mixer\4-6 Color Mixer\obj\Debug\4-6 Color Mixer.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\4-6 Color Mixer\4-6 Color Mixer\obj\Debug\_4_6_Color_Mixer.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\4-6 Color Mixer\4-6 Color Mixer\obj\Debug\_4_6_Color_Mixer.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\4-6 Color Mixer\4-6 Color Mixer\obj\Debug\4-6 Color Mixer.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\4-6 Color Mixer\4-6 Color Mixer\obj\Debug\4-6 Color Mixer.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\4-6 Color Mixer\4-6 Color Mixer\obj\Debug\4-6 Color Mixer.pdb

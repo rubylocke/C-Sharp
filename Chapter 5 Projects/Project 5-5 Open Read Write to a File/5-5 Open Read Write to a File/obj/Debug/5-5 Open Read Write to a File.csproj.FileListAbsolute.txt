@@ -1,0 +1,10 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\5-5 Open Read Write to a File\5-5 Open Read Write to a File\bin\Debug\5-5 Open Read Write to a File.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-5 Open Read Write to a File\5-5 Open Read Write to a File\bin\Debug\5-5 Open Read Write to a File.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-5 Open Read Write to a File\5-5 Open Read Write to a File\bin\Debug\5-5 Open Read Write to a File.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-5 Open Read Write to a File\5-5 Open Read Write to a File\bin\Debug\5-5 Open Read Write to a File.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-5 Open Read Write to a File\5-5 Open Read Write to a File\obj\Debug\5-5 Open Read Write to a File.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-5 Open Read Write to a File\5-5 Open Read Write to a File\obj\Debug\_5_5_Open_Read_Write_to_a_File.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-5 Open Read Write to a File\5-5 Open Read Write to a File\obj\Debug\_5_5_Open_Read_Write_to_a_File.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-5 Open Read Write to a File\5-5 Open Read Write to a File\obj\Debug\5-5 Open Read Write to a File.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-5 Open Read Write to a File\5-5 Open Read Write to a File\obj\Debug\5-5 Open Read Write to a File.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-5 Open Read Write to a File\5-5 Open Read Write to a File\obj\Debug\5-5 Open Read Write to a File.pdb

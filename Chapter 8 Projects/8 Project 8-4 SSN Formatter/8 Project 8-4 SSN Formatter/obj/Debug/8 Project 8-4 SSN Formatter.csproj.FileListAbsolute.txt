@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-4 SSN Formatter\8 Project 8-4 SSN Formatter\bin\Debug\8 Project 8-4 SSN Formatter.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-4 SSN Formatter\8 Project 8-4 SSN Formatter\bin\Debug\8 Project 8-4 SSN Formatter.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-4 SSN Formatter\8 Project 8-4 SSN Formatter\bin\Debug\8 Project 8-4 SSN Formatter.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-4 SSN Formatter\8 Project 8-4 SSN Formatter\obj\Debug\8 Project 8-4 SSN Formatter.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-4 SSN Formatter\8 Project 8-4 SSN Formatter\obj\Debug\_8_Project_8_4_SSN_Formatter.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-4 SSN Formatter\8 Project 8-4 SSN Formatter\obj\Debug\_8_Project_8_4_SSN_Formatter.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-4 SSN Formatter\8 Project 8-4 SSN Formatter\obj\Debug\8 Project 8-4 SSN Formatter.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-4 SSN Formatter\8 Project 8-4 SSN Formatter\obj\Debug\8 Project 8-4 SSN Formatter.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-4 SSN Formatter\8 Project 8-4 SSN Formatter\obj\Debug\8 Project 8-4 SSN Formatter.pdb

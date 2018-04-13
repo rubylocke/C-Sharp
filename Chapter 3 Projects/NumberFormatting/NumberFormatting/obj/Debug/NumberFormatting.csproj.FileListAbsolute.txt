@@ -1,0 +1,6 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\NumberFormatting\NumberFormatting\bin\Debug\NumberFormatting.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\NumberFormatting\NumberFormatting\bin\Debug\NumberFormatting.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\NumberFormatting\NumberFormatting\bin\Debug\NumberFormatting.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\NumberFormatting\NumberFormatting\obj\Debug\NumberFormatting.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\NumberFormatting\NumberFormatting\obj\Debug\NumberFormatting.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\NumberFormatting\NumberFormatting\obj\Debug\NumberFormatting.pdb

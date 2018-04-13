@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\5 P 12 Calculating the Factorial\5 P 12 Calculating the Factorial\bin\Debug\5 P 12 Calculating the Factorial.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\5 P 12 Calculating the Factorial\5 P 12 Calculating the Factorial\bin\Debug\5 P 12 Calculating the Factorial.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\5 P 12 Calculating the Factorial\5 P 12 Calculating the Factorial\bin\Debug\5 P 12 Calculating the Factorial.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\5 P 12 Calculating the Factorial\5 P 12 Calculating the Factorial\obj\Debug\5 P 12 Calculating the Factorial.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\5 P 12 Calculating the Factorial\5 P 12 Calculating the Factorial\obj\Debug\_5_P_12_Calculating_the_Factorial.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\5 P 12 Calculating the Factorial\5 P 12 Calculating the Factorial\obj\Debug\_5_P_12_Calculating_the_Factorial.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\5 P 12 Calculating the Factorial\5 P 12 Calculating the Factorial\obj\Debug\5 P 12 Calculating the Factorial.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\5 P 12 Calculating the Factorial\5 P 12 Calculating the Factorial\obj\Debug\5 P 12 Calculating the Factorial.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\5 P 12 Calculating the Factorial\5 P 12 Calculating the Factorial\obj\Debug\5 P 12 Calculating the Factorial.pdb

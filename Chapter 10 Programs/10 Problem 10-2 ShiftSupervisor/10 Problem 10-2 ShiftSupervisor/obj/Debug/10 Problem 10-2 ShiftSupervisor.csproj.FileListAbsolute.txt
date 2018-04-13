@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Problem 10-2 ShiftSupervisor\10 Problem 10-2 ShiftSupervisor\bin\Debug\10 Problem 10-2 ShiftSupervisor.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Problem 10-2 ShiftSupervisor\10 Problem 10-2 ShiftSupervisor\bin\Debug\10 Problem 10-2 ShiftSupervisor.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Problem 10-2 ShiftSupervisor\10 Problem 10-2 ShiftSupervisor\bin\Debug\10 Problem 10-2 ShiftSupervisor.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Problem 10-2 ShiftSupervisor\10 Problem 10-2 ShiftSupervisor\obj\Debug\10 Problem 10-2 ShiftSupervisor.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Problem 10-2 ShiftSupervisor\10 Problem 10-2 ShiftSupervisor\obj\Debug\_10_Problem_10_2_ShiftSupervisor.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Problem 10-2 ShiftSupervisor\10 Problem 10-2 ShiftSupervisor\obj\Debug\_10_Problem_10_2_ShiftSupervisor.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Problem 10-2 ShiftSupervisor\10 Problem 10-2 ShiftSupervisor\obj\Debug\10 Problem 10-2 ShiftSupervisor.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Problem 10-2 ShiftSupervisor\10 Problem 10-2 ShiftSupervisor\obj\Debug\10 Problem 10-2 ShiftSupervisor.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Problem 10-2 ShiftSupervisor\10 Problem 10-2 ShiftSupervisor\obj\Debug\10 Problem 10-2 ShiftSupervisor.pdb

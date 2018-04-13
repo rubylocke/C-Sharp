@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Problem 10-1 Classes\10 Problem 10-1 Classes\bin\Debug\10 Problem 10-1 Classes.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Problem 10-1 Classes\10 Problem 10-1 Classes\bin\Debug\10 Problem 10-1 Classes.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Problem 10-1 Classes\10 Problem 10-1 Classes\bin\Debug\10 Problem 10-1 Classes.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Problem 10-1 Classes\10 Problem 10-1 Classes\obj\Debug\10 Problem 10-1 Classes.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Problem 10-1 Classes\10 Problem 10-1 Classes\obj\Debug\_10_Problem_10_1_Classes.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Problem 10-1 Classes\10 Problem 10-1 Classes\obj\Debug\_10_Problem_10_1_Classes.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Problem 10-1 Classes\10 Problem 10-1 Classes\obj\Debug\10 Problem 10-1 Classes.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Problem 10-1 Classes\10 Problem 10-1 Classes\obj\Debug\10 Problem 10-1 Classes.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Problem 10-1 Classes\10 Problem 10-1 Classes\obj\Debug\10 Problem 10-1 Classes.pdb

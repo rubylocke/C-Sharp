@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-7 Image List\8 Project 8-7 Image List\bin\Debug\8 Project 8-7 Image List.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-7 Image List\8 Project 8-7 Image List\bin\Debug\8 Project 8-7 Image List.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-7 Image List\8 Project 8-7 Image List\bin\Debug\8 Project 8-7 Image List.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-7 Image List\8 Project 8-7 Image List\obj\Debug\8 Project 8-7 Image List.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-7 Image List\8 Project 8-7 Image List\obj\Debug\_8_Project_8_7_Image_List.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-7 Image List\8 Project 8-7 Image List\obj\Debug\_8_Project_8_7_Image_List.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-7 Image List\8 Project 8-7 Image List\obj\Debug\8 Project 8-7 Image List.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-7 Image List\8 Project 8-7 Image List\obj\Debug\8 Project 8-7 Image List.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-7 Image List\8 Project 8-7 Image List\obj\Debug\8 Project 8-7 Image List.pdb

@@ -1,0 +1,11 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Program 11-3 Bind an Existing db to lstb\11 Program 11-3 Bind an Existing db to lstb\bin\Debug\11 Program 11-3 Bind an Existing db to lstb.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Program 11-3 Bind an Existing db to lstb\11 Program 11-3 Bind an Existing db to lstb\bin\Debug\Locke.mdf
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Program 11-3 Bind an Existing db to lstb\11 Program 11-3 Bind an Existing db to lstb\bin\Debug\Locke_log.ldf
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Program 11-3 Bind an Existing db to lstb\11 Program 11-3 Bind an Existing db to lstb\bin\Debug\11 Program 11-3 Bind an Existing db to lstb.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Program 11-3 Bind an Existing db to lstb\11 Program 11-3 Bind an Existing db to lstb\bin\Debug\11 Program 11-3 Bind an Existing db to lstb.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Program 11-3 Bind an Existing db to lstb\11 Program 11-3 Bind an Existing db to lstb\obj\Debug\_11_Program_11_3_Bind_an_Existing_db_to_lstb.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Program 11-3 Bind an Existing db to lstb\11 Program 11-3 Bind an Existing db to lstb\obj\Debug\_11_Program_11_3_Bind_an_Existing_db_to_lstb.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Program 11-3 Bind an Existing db to lstb\11 Program 11-3 Bind an Existing db to lstb\obj\Debug\11 Program 11-3 Bind an Existing db to lstb.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Program 11-3 Bind an Existing db to lstb\11 Program 11-3 Bind an Existing db to lstb\obj\Debug\11 Program 11-3 Bind an Existing db to lstb.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Program 11-3 Bind an Existing db to lstb\11 Program 11-3 Bind an Existing db to lstb\obj\Debug\11 Program 11-3 Bind an Existing db to lstb.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\11 Program 11-3 Bind an Existing db to lstb\11 Program 11-3 Bind an Existing db to lstb\obj\Debug\11 Program 11-3 Bind an Existing db to lstb.csproj.CoreCompileInputs.cache

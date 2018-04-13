@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-4 Abstraction\10 Project 10-4 Abstraction\bin\Debug\10 Project 10-4 Abstraction.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-4 Abstraction\10 Project 10-4 Abstraction\bin\Debug\10 Project 10-4 Abstraction.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-4 Abstraction\10 Project 10-4 Abstraction\bin\Debug\10 Project 10-4 Abstraction.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-4 Abstraction\10 Project 10-4 Abstraction\obj\Debug\10 Project 10-4 Abstraction.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-4 Abstraction\10 Project 10-4 Abstraction\obj\Debug\_10_Project_10_4_Abstraction.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-4 Abstraction\10 Project 10-4 Abstraction\obj\Debug\_10_Project_10_4_Abstraction.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-4 Abstraction\10 Project 10-4 Abstraction\obj\Debug\10 Project 10-4 Abstraction.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-4 Abstraction\10 Project 10-4 Abstraction\obj\Debug\10 Project 10-4 Abstraction.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\10 Project 10-4 Abstraction\10 Project 10-4 Abstraction\obj\Debug\10 Project 10-4 Abstraction.pdb

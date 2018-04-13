@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4-3 Comparing Strings\Project 4-3 Comparing Strings\bin\Debug\Project 4-3 Comparing Strings.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4-3 Comparing Strings\Project 4-3 Comparing Strings\bin\Debug\Project 4-3 Comparing Strings.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4-3 Comparing Strings\Project 4-3 Comparing Strings\bin\Debug\Project 4-3 Comparing Strings.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4-3 Comparing Strings\Project 4-3 Comparing Strings\obj\Debug\Project 4-3 Comparing Strings.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4-3 Comparing Strings\Project 4-3 Comparing Strings\obj\Debug\Project_4_3_Comparing_Strings.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4-3 Comparing Strings\Project 4-3 Comparing Strings\obj\Debug\Project_4_3_Comparing_Strings.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4-3 Comparing Strings\Project 4-3 Comparing Strings\obj\Debug\Project 4-3 Comparing Strings.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4-3 Comparing Strings\Project 4-3 Comparing Strings\obj\Debug\Project 4-3 Comparing Strings.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4-3 Comparing Strings\Project 4-3 Comparing Strings\obj\Debug\Project 4-3 Comparing Strings.pdb

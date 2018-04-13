@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\5 P 3 Celsius To Fahrenheit Table\5 P 3 Celsius To Fahrenheit Table\bin\Debug\5 P 3 Celsius To Fahrenheit Table.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\5 P 3 Celsius To Fahrenheit Table\5 P 3 Celsius To Fahrenheit Table\bin\Debug\5 P 3 Celsius To Fahrenheit Table.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\5 P 3 Celsius To Fahrenheit Table\5 P 3 Celsius To Fahrenheit Table\bin\Debug\5 P 3 Celsius To Fahrenheit Table.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\5 P 3 Celsius To Fahrenheit Table\5 P 3 Celsius To Fahrenheit Table\obj\Debug\5 P 3 Celsius To Fahrenheit Table.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\5 P 3 Celsius To Fahrenheit Table\5 P 3 Celsius To Fahrenheit Table\obj\Debug\_5_P_3_Celsius_To_Fahrenheit_Table.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\5 P 3 Celsius To Fahrenheit Table\5 P 3 Celsius To Fahrenheit Table\obj\Debug\_5_P_3_Celsius_To_Fahrenheit_Table.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\5 P 3 Celsius To Fahrenheit Table\5 P 3 Celsius To Fahrenheit Table\obj\Debug\5 P 3 Celsius To Fahrenheit Table.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\5 P 3 Celsius To Fahrenheit Table\5 P 3 Celsius To Fahrenheit Table\obj\Debug\5 P 3 Celsius To Fahrenheit Table.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\5 P 3 Celsius To Fahrenheit Table\5 P 3 Celsius To Fahrenheit Table\obj\Debug\5 P 3 Celsius To Fahrenheit Table.pdb

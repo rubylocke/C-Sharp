@@ -1,0 +1,8 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4-4 GroupBox Radio button Check\Project 4-4 GroupBox Radio button Check\bin\Debug\Project 4-4 GroupBox Radio button Check.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4-4 GroupBox Radio button Check\Project 4-4 GroupBox Radio button Check\bin\Debug\Project 4-4 GroupBox Radio button Check.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4-4 GroupBox Radio button Check\Project 4-4 GroupBox Radio button Check\bin\Debug\Project 4-4 GroupBox Radio button Check.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4-4 GroupBox Radio button Check\Project 4-4 GroupBox Radio button Check\obj\Debug\Project_4_4_GroupBox_Radio_button_Check.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4-4 GroupBox Radio button Check\Project 4-4 GroupBox Radio button Check\obj\Debug\Project_4_4_GroupBox_Radio_button_Check.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4-4 GroupBox Radio button Check\Project 4-4 GroupBox Radio button Check\obj\Debug\Project 4-4 GroupBox Radio button Check.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4-4 GroupBox Radio button Check\Project 4-4 GroupBox Radio button Check\obj\Debug\Project 4-4 GroupBox Radio button Check.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4-4 GroupBox Radio button Check\Project 4-4 GroupBox Radio button Check\obj\Debug\Project 4-4 GroupBox Radio button Check.pdb

@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 2 Passing Arguments\6 Project 2 Passing Arguments\bin\Debug\6 Project 2 Passing Arguments.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 2 Passing Arguments\6 Project 2 Passing Arguments\bin\Debug\6 Project 2 Passing Arguments.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 2 Passing Arguments\6 Project 2 Passing Arguments\bin\Debug\6 Project 2 Passing Arguments.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 2 Passing Arguments\6 Project 2 Passing Arguments\obj\Debug\6 Project 2 Passing Arguments.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 2 Passing Arguments\6 Project 2 Passing Arguments\obj\Debug\_6_Project_2_Passing_Arguments.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 2 Passing Arguments\6 Project 2 Passing Arguments\obj\Debug\_6_Project_2_Passing_Arguments.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 2 Passing Arguments\6 Project 2 Passing Arguments\obj\Debug\6 Project 2 Passing Arguments.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 2 Passing Arguments\6 Project 2 Passing Arguments\obj\Debug\6 Project 2 Passing Arguments.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 2 Passing Arguments\6 Project 2 Passing Arguments\obj\Debug\6 Project 2 Passing Arguments.pdb

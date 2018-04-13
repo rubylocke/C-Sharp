@@ -1,0 +1,5 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\ImplicitExplicitConversion\ImplicitExplicitConversion\bin\Debug\ImplicitExplicitConversion.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\ImplicitExplicitConversion\ImplicitExplicitConversion\bin\Debug\ImplicitExplicitConversion.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\ImplicitExplicitConversion\ImplicitExplicitConversion\bin\Debug\ImplicitExplicitConversion.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\ImplicitExplicitConversion\ImplicitExplicitConversion\obj\Debug\ImplicitExplicitConversion.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\ImplicitExplicitConversion\ImplicitExplicitConversion\obj\Debug\ImplicitExplicitConversion.pdb

@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 8-7 Pig Latin\8 Problem 8-7 Pig Latin\bin\Debug\8 Problem 8-7 Pig Latin.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 8-7 Pig Latin\8 Problem 8-7 Pig Latin\bin\Debug\8 Problem 8-7 Pig Latin.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 8-7 Pig Latin\8 Problem 8-7 Pig Latin\bin\Debug\8 Problem 8-7 Pig Latin.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 8-7 Pig Latin\8 Problem 8-7 Pig Latin\obj\Debug\8 Problem 8-7 Pig Latin.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 8-7 Pig Latin\8 Problem 8-7 Pig Latin\obj\Debug\_8_Problem_8_7_Pig_Latin.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 8-7 Pig Latin\8 Problem 8-7 Pig Latin\obj\Debug\_8_Problem_8_7_Pig_Latin.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 8-7 Pig Latin\8 Problem 8-7 Pig Latin\obj\Debug\8 Problem 8-7 Pig Latin.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 8-7 Pig Latin\8 Problem 8-7 Pig Latin\obj\Debug\8 Problem 8-7 Pig Latin.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 8-7 Pig Latin\8 Problem 8-7 Pig Latin\obj\Debug\8 Problem 8-7 Pig Latin.pdb

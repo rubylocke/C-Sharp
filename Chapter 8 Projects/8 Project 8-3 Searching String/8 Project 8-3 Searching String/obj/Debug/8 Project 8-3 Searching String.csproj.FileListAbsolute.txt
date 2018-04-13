@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-3 Searching String\8 Project 8-3 Searching String\bin\Debug\8 Project 8-3 Searching String.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-3 Searching String\8 Project 8-3 Searching String\bin\Debug\8 Project 8-3 Searching String.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-3 Searching String\8 Project 8-3 Searching String\bin\Debug\8 Project 8-3 Searching String.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-3 Searching String\8 Project 8-3 Searching String\obj\Debug\8 Project 8-3 Searching String.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-3 Searching String\8 Project 8-3 Searching String\obj\Debug\_8_Project_8_3_Searching_String.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-3 Searching String\8 Project 8-3 Searching String\obj\Debug\_8_Project_8_3_Searching_String.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-3 Searching String\8 Project 8-3 Searching String\obj\Debug\8 Project 8-3 Searching String.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-3 Searching String\8 Project 8-3 Searching String\obj\Debug\8 Project 8-3 Searching String.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-3 Searching String\8 Project 8-3 Searching String\obj\Debug\8 Project 8-3 Searching String.pdb

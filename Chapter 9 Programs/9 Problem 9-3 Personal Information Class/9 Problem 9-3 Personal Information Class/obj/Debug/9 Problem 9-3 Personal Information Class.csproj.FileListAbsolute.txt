@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Problem 9-3 Personal Information Class\9 Problem 9-3 Personal Information Class\bin\Debug\9 Problem 9-3 Personal Information Class.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Problem 9-3 Personal Information Class\9 Problem 9-3 Personal Information Class\bin\Debug\9 Problem 9-3 Personal Information Class.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Problem 9-3 Personal Information Class\9 Problem 9-3 Personal Information Class\bin\Debug\9 Problem 9-3 Personal Information Class.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Problem 9-3 Personal Information Class\9 Problem 9-3 Personal Information Class\obj\Debug\9 Problem 9-3 Personal Information Class.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Problem 9-3 Personal Information Class\9 Problem 9-3 Personal Information Class\obj\Debug\_9_Problem_9_3_Personal_Information_Class.PersonalInformation.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Problem 9-3 Personal Information Class\9 Problem 9-3 Personal Information Class\obj\Debug\_9_Problem_9_3_Personal_Information_Class.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Problem 9-3 Personal Information Class\9 Problem 9-3 Personal Information Class\obj\Debug\9 Problem 9-3 Personal Information Class.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Problem 9-3 Personal Information Class\9 Problem 9-3 Personal Information Class\obj\Debug\9 Problem 9-3 Personal Information Class.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Problem 9-3 Personal Information Class\9 Problem 9-3 Personal Information Class\obj\Debug\9 Problem 9-3 Personal Information Class.pdb

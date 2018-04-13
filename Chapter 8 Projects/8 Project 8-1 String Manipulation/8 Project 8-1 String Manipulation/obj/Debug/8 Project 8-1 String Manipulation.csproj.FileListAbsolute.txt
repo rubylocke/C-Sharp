@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-1 String Manipulation\8 Project 8-1 String Manipulation\bin\Debug\8 Project 8-1 String Manipulation.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-1 String Manipulation\8 Project 8-1 String Manipulation\bin\Debug\8 Project 8-1 String Manipulation.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-1 String Manipulation\8 Project 8-1 String Manipulation\bin\Debug\8 Project 8-1 String Manipulation.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-1 String Manipulation\8 Project 8-1 String Manipulation\obj\Debug\8 Project 8-1 String Manipulation.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-1 String Manipulation\8 Project 8-1 String Manipulation\obj\Debug\_8_Project_8_1_String_Manipulation.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-1 String Manipulation\8 Project 8-1 String Manipulation\obj\Debug\_8_Project_8_1_String_Manipulation.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-1 String Manipulation\8 Project 8-1 String Manipulation\obj\Debug\8 Project 8-1 String Manipulation.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-1 String Manipulation\8 Project 8-1 String Manipulation\obj\Debug\8 Project 8-1 String Manipulation.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-1 String Manipulation\8 Project 8-1 String Manipulation\obj\Debug\8 Project 8-1 String Manipulation.pdb

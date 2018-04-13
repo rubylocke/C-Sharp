@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 8-8 Sum of Numbers in a String\8 Problem 8-8 Sum of Numbers in a String\bin\Debug\8 Problem 8-8 Sum of Numbers in a String.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 8-8 Sum of Numbers in a String\8 Problem 8-8 Sum of Numbers in a String\bin\Debug\8 Problem 8-8 Sum of Numbers in a String.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 8-8 Sum of Numbers in a String\8 Problem 8-8 Sum of Numbers in a String\bin\Debug\8 Problem 8-8 Sum of Numbers in a String.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 8-8 Sum of Numbers in a String\8 Problem 8-8 Sum of Numbers in a String\obj\Debug\8 Problem 8-8 Sum of Numbers in a String.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 8-8 Sum of Numbers in a String\8 Problem 8-8 Sum of Numbers in a String\obj\Debug\_8_Problem_8_8_Sum_of_Numbers_in_a_String.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 8-8 Sum of Numbers in a String\8 Problem 8-8 Sum of Numbers in a String\obj\Debug\_8_Problem_8_8_Sum_of_Numbers_in_a_String.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 8-8 Sum of Numbers in a String\8 Problem 8-8 Sum of Numbers in a String\obj\Debug\8 Problem 8-8 Sum of Numbers in a String.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 8-8 Sum of Numbers in a String\8 Problem 8-8 Sum of Numbers in a String\obj\Debug\8 Problem 8-8 Sum of Numbers in a String.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 8-8 Sum of Numbers in a String\8 Problem 8-8 Sum of Numbers in a String\obj\Debug\8 Problem 8-8 Sum of Numbers in a String.pdb

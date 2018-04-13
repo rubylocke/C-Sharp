@@ -1,0 +1,21 @@
+D:\Documents\AA Visual C#\Projects\Card Flip\Card Flip\bin\Debug\Card Flip.exe.config
+D:\Documents\AA Visual C#\Projects\Card Flip\Card Flip\obj\Debug\Card Flip.csprojResolveAssemblyReference.cache
+D:\Documents\AA Visual C#\Projects\Card Flip\Card Flip\obj\Debug\Card_Flip.Form1.resources
+D:\Documents\AA Visual C#\Projects\Card Flip\Card Flip\obj\Debug\Card_Flip.Properties.Resources.resources
+D:\Documents\AA Visual C#\Projects\Card Flip\Card Flip\obj\Debug\Card Flip.csproj.GenerateResource.Cache
+D:\Documents\AA Visual C#\Projects\Card Flip\Card Flip\bin\Debug\Card Flip.exe
+D:\Documents\AA Visual C#\Projects\Card Flip\Card Flip\bin\Debug\Card Flip.pdb
+D:\Documents\AA Visual C#\Projects\Card Flip\Card Flip\obj\Debug\Card Flip.exe
+D:\Documents\AA Visual C#\Projects\Card Flip\Card Flip\obj\Debug\Card Flip.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Card Flip\Card Flip\bin\Debug\Card Flip.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Card Flip\Card Flip\obj\Debug\Card Flip.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Card Flip\Card Flip\obj\Debug\Card Flip.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Card Flip\Card Flip\bin\Debug\Card Flip.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Card Flip\Card Flip\bin\Debug\Card Flip.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Card Flip\Card Flip\obj\Debug\Card Flip.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Card Flip\Card Flip\obj\Debug\Card_Flip.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Card Flip\Card Flip\obj\Debug\Card_Flip.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Card Flip\Card Flip\obj\Debug\Card Flip.csproj.GenerateResource.Cache
+C:\Users\rubyl\OneDrive\Documents\GitHub\temp\Programs2\Card Flip\Card Flip\bin\Debug\Card Flip.exe.config
+C:\Users\rubyl\OneDrive\Documents\GitHub\temp\Programs2\Card Flip\Card Flip\obj\Debug\Card Flip.exe
+C:\Users\rubyl\OneDrive\Documents\GitHub\temp\Programs2\Card Flip\Card Flip\obj\Debug\Card Flip.pdb

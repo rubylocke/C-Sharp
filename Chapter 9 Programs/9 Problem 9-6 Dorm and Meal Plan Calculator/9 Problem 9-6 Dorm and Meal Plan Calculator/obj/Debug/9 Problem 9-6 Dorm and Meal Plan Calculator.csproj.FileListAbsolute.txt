@@ -1,0 +1,10 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Problem 9-6 Dorm and Meal Plan Calculator\9 Problem 9-6 Dorm and Meal Plan Calculator\bin\Debug\9 Problem 9-6 Dorm and Meal Plan Calculator.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Problem 9-6 Dorm and Meal Plan Calculator\9 Problem 9-6 Dorm and Meal Plan Calculator\bin\Debug\9 Problem 9-6 Dorm and Meal Plan Calculator.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Problem 9-6 Dorm and Meal Plan Calculator\9 Problem 9-6 Dorm and Meal Plan Calculator\bin\Debug\9 Problem 9-6 Dorm and Meal Plan Calculator.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Problem 9-6 Dorm and Meal Plan Calculator\9 Problem 9-6 Dorm and Meal Plan Calculator\obj\Debug\9 Problem 9-6 Dorm and Meal Plan Calculator.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Problem 9-6 Dorm and Meal Plan Calculator\9 Problem 9-6 Dorm and Meal Plan Calculator\obj\Debug\_9_Problem_9_6_Dorm_and_Meal_Plan_Calculator.MainForm.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Problem 9-6 Dorm and Meal Plan Calculator\9 Problem 9-6 Dorm and Meal Plan Calculator\obj\Debug\_9_Problem_9_6_Dorm_and_Meal_Plan_Calculator.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Problem 9-6 Dorm and Meal Plan Calculator\9 Problem 9-6 Dorm and Meal Plan Calculator\obj\Debug\_9_Problem_9_6_Dorm_and_Meal_Plan_Calculator.TotalCost.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Problem 9-6 Dorm and Meal Plan Calculator\9 Problem 9-6 Dorm and Meal Plan Calculator\obj\Debug\9 Problem 9-6 Dorm and Meal Plan Calculator.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Problem 9-6 Dorm and Meal Plan Calculator\9 Problem 9-6 Dorm and Meal Plan Calculator\obj\Debug\9 Problem 9-6 Dorm and Meal Plan Calculator.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Problem 9-6 Dorm and Meal Plan Calculator\9 Problem 9-6 Dorm and Meal Plan Calculator\obj\Debug\9 Problem 9-6 Dorm and Meal Plan Calculator.pdb

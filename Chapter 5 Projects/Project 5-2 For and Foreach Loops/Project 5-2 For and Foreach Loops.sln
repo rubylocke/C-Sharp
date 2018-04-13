@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project 5-2 For and Foreach Loops", "Project 5-2 For and Foreach Loops\Project 5-2 For and Foreach Loops.csproj", "{70F37A09-D14B-4324-9F79-AD40B46F08FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70F37A09-D14B-4324-9F79-AD40B46F08FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70F37A09-D14B-4324-9F79-AD40B46F08FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70F37A09-D14B-4324-9F79-AD40B46F08FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70F37A09-D14B-4324-9F79-AD40B46F08FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

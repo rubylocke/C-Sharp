@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-1 Classes I\9 Project 9-1 Classes I\bin\Debug\9 Project 9-1 Classes I.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-1 Classes I\9 Project 9-1 Classes I\bin\Debug\9 Project 9-1 Classes I.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-1 Classes I\9 Project 9-1 Classes I\bin\Debug\9 Project 9-1 Classes I.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-1 Classes I\9 Project 9-1 Classes I\obj\Debug\9 Project 9-1 Classes I.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-1 Classes I\9 Project 9-1 Classes I\obj\Debug\_9_Project_9_1_Classes_I.frmClassesI.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-1 Classes I\9 Project 9-1 Classes I\obj\Debug\_9_Project_9_1_Classes_I.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-1 Classes I\9 Project 9-1 Classes I\obj\Debug\9 Project 9-1 Classes I.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-1 Classes I\9 Project 9-1 Classes I\obj\Debug\9 Project 9-1 Classes I.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-1 Classes I\9 Project 9-1 Classes I\obj\Debug\9 Project 9-1 Classes I.pdb

@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Gross Pay Calculate\Gross Pay Calculate\bin\Debug\Gross Pay Calculate.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Gross Pay Calculate\Gross Pay Calculate\bin\Debug\Gross Pay Calculate.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Gross Pay Calculate\Gross Pay Calculate\bin\Debug\Gross Pay Calculate.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Gross Pay Calculate\Gross Pay Calculate\obj\Debug\Gross Pay Calculate.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Gross Pay Calculate\Gross Pay Calculate\obj\Debug\Gross_Pay_Calculate.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Gross Pay Calculate\Gross Pay Calculate\obj\Debug\Gross_Pay_Calculate.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Gross Pay Calculate\Gross Pay Calculate\obj\Debug\Gross Pay Calculate.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Gross Pay Calculate\Gross Pay Calculate\obj\Debug\Gross Pay Calculate.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Gross Pay Calculate\Gross Pay Calculate\obj\Debug\Gross Pay Calculate.pdb

@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-2 For and Foreach Loops\Project 5-2 For and Foreach Loops\bin\Debug\Project 5-2 For and Foreach Loops.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-2 For and Foreach Loops\Project 5-2 For and Foreach Loops\obj\Debug\Project 5-2 For and Foreach Loops.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-2 For and Foreach Loops\Project 5-2 For and Foreach Loops\obj\Debug\Project_5_2_For_and_Foreach_Loops.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-2 For and Foreach Loops\Project 5-2 For and Foreach Loops\obj\Debug\Project_5_2_For_and_Foreach_Loops.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-2 For and Foreach Loops\Project 5-2 For and Foreach Loops\obj\Debug\Project 5-2 For and Foreach Loops.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-2 For and Foreach Loops\Project 5-2 For and Foreach Loops\bin\Debug\Project 5-2 For and Foreach Loops.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-2 For and Foreach Loops\Project 5-2 For and Foreach Loops\bin\Debug\Project 5-2 For and Foreach Loops.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-2 For and Foreach Loops\Project 5-2 For and Foreach Loops\obj\Debug\Project 5-2 For and Foreach Loops.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-2 For and Foreach Loops\Project 5-2 For and Foreach Loops\obj\Debug\Project 5-2 For and Foreach Loops.pdb

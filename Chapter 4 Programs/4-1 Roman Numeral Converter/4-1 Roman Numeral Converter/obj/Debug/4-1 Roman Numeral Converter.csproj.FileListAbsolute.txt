@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\4-1 Roman Numeral Converter\4-1 Roman Numeral Converter\bin\Debug\4-1 Roman Numeral Converter.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\4-1 Roman Numeral Converter\4-1 Roman Numeral Converter\bin\Debug\4-1 Roman Numeral Converter.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\4-1 Roman Numeral Converter\4-1 Roman Numeral Converter\bin\Debug\4-1 Roman Numeral Converter.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\4-1 Roman Numeral Converter\4-1 Roman Numeral Converter\obj\Debug\4-1 Roman Numeral Converter.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\4-1 Roman Numeral Converter\4-1 Roman Numeral Converter\obj\Debug\_4_1_Roman_Numeral_Converter.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\4-1 Roman Numeral Converter\4-1 Roman Numeral Converter\obj\Debug\_4_1_Roman_Numeral_Converter.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\4-1 Roman Numeral Converter\4-1 Roman Numeral Converter\obj\Debug\4-1 Roman Numeral Converter.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\4-1 Roman Numeral Converter\4-1 Roman Numeral Converter\obj\Debug\4-1 Roman Numeral Converter.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\4-1 Roman Numeral Converter\4-1 Roman Numeral Converter\obj\Debug\4-1 Roman Numeral Converter.pdb

@@ -1,0 +1,8 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 3 Boolean Method\6 Project 3 Boolean Method\bin\Debug\6 Project 3 Boolean Method.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 3 Boolean Method\6 Project 3 Boolean Method\bin\Debug\6 Project 3 Boolean Method.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 3 Boolean Method\6 Project 3 Boolean Method\bin\Debug\6 Project 3 Boolean Method.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 3 Boolean Method\6 Project 3 Boolean Method\obj\Debug\_6_Project_3_Boolean_Method.formBoolean.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 3 Boolean Method\6 Project 3 Boolean Method\obj\Debug\_6_Project_3_Boolean_Method.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 3 Boolean Method\6 Project 3 Boolean Method\obj\Debug\6 Project 3 Boolean Method.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 3 Boolean Method\6 Project 3 Boolean Method\obj\Debug\6 Project 3 Boolean Method.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 3 Boolean Method\6 Project 3 Boolean Method\obj\Debug\6 Project 3 Boolean Method.pdb

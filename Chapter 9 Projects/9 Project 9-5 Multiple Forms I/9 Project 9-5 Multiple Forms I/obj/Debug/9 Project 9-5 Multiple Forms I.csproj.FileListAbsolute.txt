@@ -1,0 +1,10 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-5 Multiple Forms I\9 Project 9-5 Multiple Forms I\bin\Debug\9 Project 9-5 Multiple Forms I.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-5 Multiple Forms I\9 Project 9-5 Multiple Forms I\bin\Debug\9 Project 9-5 Multiple Forms I.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-5 Multiple Forms I\9 Project 9-5 Multiple Forms I\bin\Debug\9 Project 9-5 Multiple Forms I.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-5 Multiple Forms I\9 Project 9-5 Multiple Forms I\obj\Debug\9 Project 9-5 Multiple Forms I.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-5 Multiple Forms I\9 Project 9-5 Multiple Forms I\obj\Debug\_9_Project_9_5_Multiple_Forms_I.MainForm.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-5 Multiple Forms I\9 Project 9-5 Multiple Forms I\obj\Debug\_9_Project_9_5_Multiple_Forms_I.Form2.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-5 Multiple Forms I\9 Project 9-5 Multiple Forms I\obj\Debug\_9_Project_9_5_Multiple_Forms_I.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-5 Multiple Forms I\9 Project 9-5 Multiple Forms I\obj\Debug\9 Project 9-5 Multiple Forms I.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-5 Multiple Forms I\9 Project 9-5 Multiple Forms I\obj\Debug\9 Project 9-5 Multiple Forms I.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\9 Project 9-5 Multiple Forms I\9 Project 9-5 Multiple Forms I\obj\Debug\9 Project 9-5 Multiple Forms I.pdb

@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 4 String Returning Method\6 Project 4 String Returning Method\bin\Debug\6 Project 4 String Returning Method.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 4 String Returning Method\6 Project 4 String Returning Method\bin\Debug\6 Project 4 String Returning Method.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 4 String Returning Method\6 Project 4 String Returning Method\bin\Debug\6 Project 4 String Returning Method.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 4 String Returning Method\6 Project 4 String Returning Method\obj\Debug\6 Project 4 String Returning Method.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 4 String Returning Method\6 Project 4 String Returning Method\obj\Debug\_6_Project_4_String_Returning_Method.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 4 String Returning Method\6 Project 4 String Returning Method\obj\Debug\_6_Project_4_String_Returning_Method.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 4 String Returning Method\6 Project 4 String Returning Method\obj\Debug\6 Project 4 String Returning Method.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 4 String Returning Method\6 Project 4 String Returning Method\obj\Debug\6 Project 4 String Returning Method.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\6 Project 4 String Returning Method\6 Project 4 String Returning Method\obj\Debug\6 Project 4 String Returning Method.pdb

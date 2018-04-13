@@ -1,0 +1,8 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4- 2 Switch\Project 4- 2 Switch\bin\Debug\Project 4- 2 Switch.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4- 2 Switch\Project 4- 2 Switch\bin\Debug\Project 4- 2 Switch.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4- 2 Switch\Project 4- 2 Switch\bin\Debug\Project 4- 2 Switch.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4- 2 Switch\Project 4- 2 Switch\obj\Debug\Project_4__2_Switch.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4- 2 Switch\Project 4- 2 Switch\obj\Debug\Project_4__2_Switch.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4- 2 Switch\Project 4- 2 Switch\obj\Debug\Project 4- 2 Switch.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4- 2 Switch\Project 4- 2 Switch\obj\Debug\Project 4- 2 Switch.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4- 2 Switch\Project 4- 2 Switch\obj\Debug\Project 4- 2 Switch.pdb

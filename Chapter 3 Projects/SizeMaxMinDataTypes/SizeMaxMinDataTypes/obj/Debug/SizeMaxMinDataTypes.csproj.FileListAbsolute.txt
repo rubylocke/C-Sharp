@@ -1,0 +1,5 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\SizeMaxMinDataTypes\SizeMaxMinDataTypes\bin\Debug\SizeMaxMinDataTypes.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\SizeMaxMinDataTypes\SizeMaxMinDataTypes\bin\Debug\SizeMaxMinDataTypes.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\SizeMaxMinDataTypes\SizeMaxMinDataTypes\bin\Debug\SizeMaxMinDataTypes.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\SizeMaxMinDataTypes\SizeMaxMinDataTypes\obj\Debug\SizeMaxMinDataTypes.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\SizeMaxMinDataTypes\SizeMaxMinDataTypes\obj\Debug\SizeMaxMinDataTypes.pdb

@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Celsius Fahrenheit Temperature Converter\Celsius Fahrenheit Temperature Converter\bin\Debug\Celsius Fahrenheit Temperature Converter.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Celsius Fahrenheit Temperature Converter\Celsius Fahrenheit Temperature Converter\obj\Debug\Celsius Fahrenheit Temperature Converter.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Celsius Fahrenheit Temperature Converter\Celsius Fahrenheit Temperature Converter\obj\Debug\Celsius_Fahrenheit_Temperature_Converter.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Celsius Fahrenheit Temperature Converter\Celsius Fahrenheit Temperature Converter\obj\Debug\Celsius_Fahrenheit_Temperature_Converter.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Celsius Fahrenheit Temperature Converter\Celsius Fahrenheit Temperature Converter\obj\Debug\Celsius Fahrenheit Temperature Converter.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Celsius Fahrenheit Temperature Converter\Celsius Fahrenheit Temperature Converter\bin\Debug\Celsius Fahrenheit Temperature Converter.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Celsius Fahrenheit Temperature Converter\Celsius Fahrenheit Temperature Converter\bin\Debug\Celsius Fahrenheit Temperature Converter.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Celsius Fahrenheit Temperature Converter\Celsius Fahrenheit Temperature Converter\obj\Debug\Celsius Fahrenheit Temperature Converter.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Celsius Fahrenheit Temperature Converter\Celsius Fahrenheit Temperature Converter\obj\Debug\Celsius Fahrenheit Temperature Converter.pdb

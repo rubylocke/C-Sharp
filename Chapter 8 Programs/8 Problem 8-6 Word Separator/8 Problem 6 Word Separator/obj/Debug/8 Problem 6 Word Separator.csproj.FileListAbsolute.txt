@@ -1,0 +1,12 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 6 Word Separator\8 Problem 6 Word Separator\bin\Debug\8 Problem 6 Word Separator.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 6 Word Separator\8 Problem 6 Word Separator\bin\Debug\8 Problem 6 Word Separator.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 6 Word Separator\8 Problem 6 Word Separator\bin\Debug\8 Problem 6 Word Separator.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 6 Word Separator\8 Problem 6 Word Separator\obj\Debug\8 Problem 6 Word Separator.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 6 Word Separator\8 Problem 6 Word Separator\obj\Debug\_8_Problem_6_Word_Separator.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 6 Word Separator\8 Problem 6 Word Separator\obj\Debug\_8_Problem_6_Word_Separator.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 6 Word Separator\8 Problem 6 Word Separator\obj\Debug\8 Problem 6 Word Separator.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 6 Word Separator\8 Problem 6 Word Separator\obj\Debug\8 Problem 6 Word Separator.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 6 Word Separator\8 Problem 6 Word Separator\obj\Debug\8 Problem 6 Word Separator.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 8-6 Word Separator\8 Problem 6 Word Separator\bin\Debug\8 Problem 6 Word Separator.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 8-6 Word Separator\8 Problem 6 Word Separator\obj\Debug\8 Problem 6 Word Separator.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Problem 8-6 Word Separator\8 Problem 6 Word Separator\obj\Debug\8 Problem 6 Word Separator.pdb

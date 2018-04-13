@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\5 P 1 Distance Calculate\5 P 1 Distance Calculate\bin\Debug\5 P 1 Distance Calculate.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\5 P 1 Distance Calculate\5 P 1 Distance Calculate\bin\Debug\5 P 1 Distance Calculate.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\5 P 1 Distance Calculate\5 P 1 Distance Calculate\bin\Debug\5 P 1 Distance Calculate.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\5 P 1 Distance Calculate\5 P 1 Distance Calculate\obj\Debug\5 P 1 Distance Calculate.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\5 P 1 Distance Calculate\5 P 1 Distance Calculate\obj\Debug\_5_P_1_Distance_Calculate.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\5 P 1 Distance Calculate\5 P 1 Distance Calculate\obj\Debug\_5_P_1_Distance_Calculate.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\5 P 1 Distance Calculate\5 P 1 Distance Calculate\obj\Debug\5 P 1 Distance Calculate.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\5 P 1 Distance Calculate\5 P 1 Distance Calculate\obj\Debug\5 P 1 Distance Calculate.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\5 P 1 Distance Calculate\5 P 1 Distance Calculate\obj\Debug\5 P 1 Distance Calculate.pdb

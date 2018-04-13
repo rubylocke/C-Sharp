@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4-5 TryParse()\Project 4-5 TryParse()\bin\Debug\Project 4-5 TryParse().exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4-5 TryParse()\Project 4-5 TryParse()\bin\Debug\Project 4-5 TryParse().exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4-5 TryParse()\Project 4-5 TryParse()\bin\Debug\Project 4-5 TryParse().pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4-5 TryParse()\Project 4-5 TryParse()\obj\Debug\Project 4-5 TryParse().csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4-5 TryParse()\Project 4-5 TryParse()\obj\Debug\Project_4_5_TryParse__.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4-5 TryParse()\Project 4-5 TryParse()\obj\Debug\Project_4_5_TryParse__.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4-5 TryParse()\Project 4-5 TryParse()\obj\Debug\Project 4-5 TryParse().csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4-5 TryParse()\Project 4-5 TryParse()\obj\Debug\Project 4-5 TryParse().exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 4-5 TryParse()\Project 4-5 TryParse()\obj\Debug\Project 4-5 TryParse().pdb

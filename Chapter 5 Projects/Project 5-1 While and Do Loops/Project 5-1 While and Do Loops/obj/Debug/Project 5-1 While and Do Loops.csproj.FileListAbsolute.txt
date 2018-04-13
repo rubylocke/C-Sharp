@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-1 While and Do Loops\Project 5-1 While and Do Loops\bin\Debug\Project 5-1 While and Do Loops.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-1 While and Do Loops\Project 5-1 While and Do Loops\bin\Debug\Project 5-1 While and Do Loops.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-1 While and Do Loops\Project 5-1 While and Do Loops\bin\Debug\Project 5-1 While and Do Loops.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-1 While and Do Loops\Project 5-1 While and Do Loops\obj\Debug\Project 5-1 While and Do Loops.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-1 While and Do Loops\Project 5-1 While and Do Loops\obj\Debug\Project_5_1_While_and_Do_Loops.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-1 While and Do Loops\Project 5-1 While and Do Loops\obj\Debug\Project_5_1_While_and_Do_Loops.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-1 While and Do Loops\Project 5-1 While and Do Loops\obj\Debug\Project 5-1 While and Do Loops.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-1 While and Do Loops\Project 5-1 While and Do Loops\obj\Debug\Project 5-1 While and Do Loops.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Project 5-1 While and Do Loops\Project 5-1 While and Do Loops\obj\Debug\Project 5-1 While and Do Loops.pdb

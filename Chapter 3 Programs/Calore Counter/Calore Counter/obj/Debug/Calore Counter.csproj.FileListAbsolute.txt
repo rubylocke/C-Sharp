@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Calore Counter\Calore Counter\bin\Debug\Calore Counter.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Calore Counter\Calore Counter\bin\Debug\Calore Counter.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Calore Counter\Calore Counter\bin\Debug\Calore Counter.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Calore Counter\Calore Counter\obj\Debug\Calore Counter.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Calore Counter\Calore Counter\obj\Debug\Calore_Counter.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Calore Counter\Calore Counter\obj\Debug\Calore_Counter.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Calore Counter\Calore Counter\obj\Debug\Calore Counter.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Calore Counter\Calore Counter\obj\Debug\Calore Counter.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\Calore Counter\Calore Counter\obj\Debug\Calore Counter.pdb

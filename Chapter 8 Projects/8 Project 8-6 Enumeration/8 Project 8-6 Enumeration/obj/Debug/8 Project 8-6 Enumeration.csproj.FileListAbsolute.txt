@@ -1,0 +1,9 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-6 Enumeration\8 Project 8-6 Enumeration\bin\Debug\8 Project 8-6 Enumeration.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-6 Enumeration\8 Project 8-6 Enumeration\bin\Debug\8 Project 8-6 Enumeration.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-6 Enumeration\8 Project 8-6 Enumeration\bin\Debug\8 Project 8-6 Enumeration.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-6 Enumeration\8 Project 8-6 Enumeration\obj\Debug\8 Project 8-6 Enumeration.csprojResolveAssemblyReference.cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-6 Enumeration\8 Project 8-6 Enumeration\obj\Debug\_8_Project_8_6_Enumeration.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-6 Enumeration\8 Project 8-6 Enumeration\obj\Debug\_8_Project_8_6_Enumeration.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-6 Enumeration\8 Project 8-6 Enumeration\obj\Debug\8 Project 8-6 Enumeration.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-6 Enumeration\8 Project 8-6 Enumeration\obj\Debug\8 Project 8-6 Enumeration.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-6 Enumeration\8 Project 8-6 Enumeration\obj\Debug\8 Project 8-6 Enumeration.pdb

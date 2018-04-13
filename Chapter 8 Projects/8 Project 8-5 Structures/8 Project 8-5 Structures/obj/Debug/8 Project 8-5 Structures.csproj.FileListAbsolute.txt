@@ -1,0 +1,8 @@
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-5 Structures\8 Project 8-5 Structures\bin\Debug\8 Project 8-5 Structures.exe.config
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-5 Structures\8 Project 8-5 Structures\bin\Debug\8 Project 8-5 Structures.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-5 Structures\8 Project 8-5 Structures\bin\Debug\8 Project 8-5 Structures.pdb
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-5 Structures\8 Project 8-5 Structures\obj\Debug\_8_Project_8_5_Structures.Form1.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-5 Structures\8 Project 8-5 Structures\obj\Debug\_8_Project_8_5_Structures.Properties.Resources.resources
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-5 Structures\8 Project 8-5 Structures\obj\Debug\8 Project 8-5 Structures.csproj.GenerateResource.Cache
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-5 Structures\8 Project 8-5 Structures\obj\Debug\8 Project 8-5 Structures.exe
+C:\Users\rubyl\Documents\AA Visual C#\Projects\8 Project 8-5 Structures\8 Project 8-5 Structures\obj\Debug\8 Project 8-5 Structures.pdb
